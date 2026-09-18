@@ -1,0 +1,37 @@
+# ==========================================
+# STM32CubeIDE & Eclipse Build Artifacts
+# ==========================================
+Debug/
+Release/
+build/
+bin/
+obj/
+
+# Compiler Outputs
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.su
+*.d
+*.lst
+
+# ==========================================
+# STM32CubeIDE Local & Launch Configurations
+# ==========================================
+.settings/
+*.launch
+
+# ==========================================
+# OS & Editor Generated Files
+# ==========================================
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# Keeps empty directories if needed
+!.gitkeep
